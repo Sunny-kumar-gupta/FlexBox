@@ -1,0 +1,16 @@
+.flex-container{
+    background-color: indianred;
+    height: 500px;
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    gap: 40px 20px;
+}
+.flex-child{
+    background-color: wheat;
+    margin: 20px;
+    padding: 60px;
+    width: 50px;
+    height: 50px;
+}
